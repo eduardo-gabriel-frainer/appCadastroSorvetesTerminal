@@ -1,0 +1,17 @@
+---lista de PEDIDOS---
+ |PEDIDO| |ADICIONAIS| |COBERTURA| |iTEM|
+Pedido: 1, teste, chocolate, chocolate, canudo
+---lista de PEDIDOS---
+ |PEDIDO| |ADICIONAIS| |COBERTURA| |iTEM|
+Pedido: 1, teste, chocolate, chocolate, canudo
+Pedido: 2, creme, sim, sim, canudop
+---lista de PEDIDOS---
+ |PEDIDO| |ADICIONAIS| |COBERTURA| |iTEM|
+Pedido: 1, proximo, chocolate, chocolate, canudo
+Pedido: 2, creme, sim, sim, canudop
+---lista de PEDIDOS---
+ |PEDIDO| |ADICIONAIS| |COBERTURA| |iTEM|
+Pedido: 1, proximo, chocolate, chocolate, canudo
+---lista de PEDIDOS---
+ |PEDIDO| |ADICIONAIS| |COBERTURA| |iTEM|
+Pedido: 1, proximo, chocolate, chocolate, canudo

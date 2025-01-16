@@ -1,0 +1,16 @@
+---lista de PAGAMENTOS---
+ |PAGAMENTO| |AVISTA| |LOCAL P/ COMER| |ATENDIMENTO| 
+Pagamento: 1, pix, sim, aqui, 10 
+---lista de PAGAMENTOS---
+ |PAGAMENTO| |AVISTA| |LOCAL P/ COMER| |ATENDIMENTO| 
+Pagamento: 1, pix, sim, aqui, 10 
+Pagamento: 2, dinheiro, sim, aqui, 10 
+---lista de PAGAMENTOS---
+ |PAGAMENTO| |AVISTA| |LOCAL P/ COMER| |ATENDIMENTO| 
+Pagamento: 1, pix, sim, aqui, 10 
+Pagamento: 2, dinheiro, sim, aqui, 10 
+---lista de PAGAMENTOS---
+ |PAGAMENTO| |AVISTA| |LOCAL P/ COMER| |ATENDIMENTO| 
+Pagamento: 1, pix, sim, aqui, 10 
+---lista de PAGAMENTOS---
+ |PAGAMENTO| |AVISTA| |LOCAL P/ COMER| |ATENDIMENTO| 

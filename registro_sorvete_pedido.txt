@@ -1,0 +1,12 @@
+--- Lista de Pedidos ---
+Pedido [codigo=1, pedido=creme, adicionais=chocolate, cobertura=sim, itemcanudo]
+--- Lista de Pedidos ---
+Pedido [codigo=1, pedido=creme, adicionais=chocolate, cobertura=sim, itemcanudo]
+--- Lista de Pedidos ---
+Pedido [codigo=1, pedido=creme, adicionais=chocolate, cobertura=sim, itemcanudo]
+Pedido [codigo=2, pedido=chocolate, adicionais=sim, cobertura=sim, itemcanudo]
+--- Lista de Pedidos ---
+Pedido [codigo=1, pedido=chocolate, adicionais=chocolate, cobertura=sim, itemcanudo]
+Pedido [codigo=2, pedido=chocolate, adicionais=sim, cobertura=sim, itemcanudo]
+--- Lista de Pedidos ---
+Pedido [codigo=2, pedido=chocolate, adicionais=sim, cobertura=sim, itemcanudo]
