@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Sorvetes  
+# Sistema de Cadastro de Sorvetes  🍨🍦
 
 Este é o primeiro sistema de cadastro que desenvolvi, como parte das aulas do Curso Técnico no Senai.  
 Ele foi implementado em **Java** e funciona de forma simples, utilizando um menu interativo no terminal para gerenciar pedidos e pagamentos de uma sorveteria.  
